@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MOLATERS
-- 👀 I’m interested in some interesting computer technology
-- 🌱 I’m currently learning how to be a qualified programmer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Trying to learn more
+Trying to get skilled!!!!
 
 <!---
 MOLATERS/MOLATERS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
