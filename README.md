@@ -1,6 +1,7 @@
 # Trying to learn more
 just get skilled🐱‍🏍and be a reliable coder🥦
 
+<div align="center"> <img src="https://metrics.lecoq.io/molaters?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=molaters" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=molaters&theme=react-dark"> </div>
 
