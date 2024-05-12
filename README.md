@@ -1,9 +1,7 @@
 # Trying to learn more
 just get skilled🐱‍🏍and be a reliable coder🥦
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MOLATERS&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=499)](https://git.io/streak-stats)
-
-<span style="align:center"> <img src="https://streak-stats.demolab.com?user=MOLATERS&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=499" /> </span>
+<span style="align:center"> <img src="https://streak-stats.demolab.com?user=MOLATERS&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=499" /> </span>
 
 <span style="align:center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=molaters&theme=react-dark"> </span>
 <span style="align:center"><img src="https://github-profile-trophy.vercel.app/?username=molaters"> </span>
