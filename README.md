@@ -1,10 +1,6 @@
-# Trying to learn more😋
-just get skilled🐱‍🏍
+# Trying to learn more
+just get skilled🐱‍🏍and be a reliable coder🥦
 
-<!---
-MOLATERS/MOLATERS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=molaters&theme=react-dark"> </div>
 
